@@ -56,13 +56,16 @@ main {
     padding-bottom: 10%; 
 }
 p{
-    border-right: 1px dotted black;
     padding-right: 40px;
+    border-right: 1px dotted black;
+
  }
  #email {
-    padding-left: 50px;
-
+    padding-left: 30px;
+    margin-left: 50px;
+    
     border: 1px solid black;    
+
  }
 
  footer{
